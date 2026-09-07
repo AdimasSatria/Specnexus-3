@@ -1,0 +1,6 @@
+{
+  "name": "SpecNexus",
+  "description": "The definitive parametric comparison engine for CPUs, GPUs, gaming mice, keyboards, monitors, and studio gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
